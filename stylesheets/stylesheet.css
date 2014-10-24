@@ -1,5 +1,5 @@
 html {
-  font-family: "Times New Roman", Times, serif;
+  font-family: serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -21,7 +21,7 @@ body {
 #content{
 	text-align: center;
 	color: #FFF;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Times New Roman", serif;
 	letter-spacing: 3px;
 	display: table-cell;
     vertical-align: middle;
