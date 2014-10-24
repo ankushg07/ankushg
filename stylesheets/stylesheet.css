@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 1;
   transition: background 1s ease, padding 1.5s linear;
   -webkit-transition: background 1s ease, padding 1.5s linear;
   -moz-transition: background 1s ease, padding 1.5s linear;
@@ -21,7 +21,7 @@ body {
 #content{
 	text-align: center;
 	color: #FFF;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', monotype-corsiva;
 	letter-spacing: 3px;
 	display: table-cell;
     vertical-align: middle;
