@@ -1,5 +1,5 @@
 html {
-  font-family: monotype-corsiva;
+  font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -21,7 +21,7 @@ body {
 #content{
 	text-align: center;
 	color: #FFF;
-	font-family: monotype-corsiva;
+	font-family: 'Raleway', sans-serif;
 	letter-spacing: 3px;
 	display: table-cell;
     vertical-align: middle;
